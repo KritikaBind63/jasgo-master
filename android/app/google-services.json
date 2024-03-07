@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "296396238554",
+    "project_id": "jasgo-bf2bd",
+    "storage_bucket": "jasgo-bf2bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296396238554:android:6960ae0a5d2ded5e8affe3",
+        "android_client_info": {
+          "package_name": "com.example.jasgo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEr-LyPjrlkGt_OiT-7QX8bq2tjRczNxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
